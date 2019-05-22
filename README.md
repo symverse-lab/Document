@@ -157,7 +157,7 @@ Please make sure your contributions adhere to our coding guidelines:
 - Commit messages should be prefixed with the package(s) they modify.
   - E.g. "sym, rpc: make trace configs optional"
 
-Please see the [Developers' Guide](https://github.com/symverse/go-symverse/wiki/Developers-Guide) for more details on configuring your environment, managing project dependencies and testing procedures.
+Please see the [Developers' Guide](https://github.com/symverse-lab/Document/wiki/Developers-Guide) for more details on configuring your environment, managing project dependencies and testing procedures.
 
 ## License
 
