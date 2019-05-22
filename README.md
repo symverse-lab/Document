@@ -141,19 +141,13 @@ subvert locally available APIs!**
 Maintaining your own private network is more involved as a lot of configurations taken for granted in
 the official networks need to be manually set up.
 
-Please refer [Gsym User Guide](https://github.com/symverse-lab/Document/blob/master/Doc/Gsym-User-Guide.pdf) in repository.
+Please see [Gsym User Guide](https://github.com/symverse-lab/Document/blob/master/Doc/Gsym-User-Guide.pdf) in repository.
 
 ## Contribution
 
-Thank you for considering to help out with the source code! We welcome contributions from
-anyone on the internet, and are grateful for even the smallest of fixes!
+Thank you for considering to help out with the source code! We welcome contributions from anyone on the internet, and are grateful for even the smallest of fixes!
 
-If you'd like to contribute to go-symverse, please fork, fix, commit and send a pull request
-for the maintainers to review and merge into the main code base. If you wish to submit more
-complex changes though, please check up with the core devs first on [our gitter channel](https://gitter.im/symverse/go-symverse)
-to ensure those changes are in line with the general philosophy of the project and/or get some
-early feedback which can make both your efforts much lighter as well as our review and merge
-procedures quick and simple.
+If you'd like to contribute to go-symverse, please fork, fix, commit and send a pull request for the maintainers to review and merge into the main code base. If you wish to submit more complex changes though, please check up with the Symverse engineering team first to ensure those changes are in line with the general philosophy of the project and/or get some early feedback which can make both your efforts much lighter as well as our review and merge procedures quick and simple.
 
 Please make sure your contributions adhere to our coding guidelines:
 
@@ -163,7 +157,7 @@ Please make sure your contributions adhere to our coding guidelines:
 - Commit messages should be prefixed with the package(s) they modify.
   - E.g. "sym, rpc: make trace configs optional"
 
-Please see the [Developers' Guide](https://github.com/symverse/go-symverse/wiki/Developers'-Guide) for more details on configuring your environment, managing project dependencies and testing procedures.
+Please see the [Developers' Guide](https://github.com/symverse/go-symverse/wiki/Developers-Guide) for more details on configuring your environment, managing project dependencies and testing procedures.
 
 ## License
 
