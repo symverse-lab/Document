@@ -1,3 +1,4 @@
+```sh
 $ gsym help
 NAME:
    gsym - the go-symverse command line interface
@@ -148,3 +149,5 @@ MISC OPTIONS:
 
 COPYRIGHT:
    Copyright 2018-2019 The go-symverse Authors
+```
+
