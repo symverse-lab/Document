@@ -148,4 +148,3 @@ MISC OPTIONS:
 
 COPYRIGHT:
    Copyright 2018-2019 The go-symverse Authors
-   
