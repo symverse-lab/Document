@@ -2,6 +2,45 @@
 
 
 
+## gsym v1.0.36
+
+##### 1. Added SCT22, 50, 51
+
+- SCT22: Extended contract from SCT20 for setting token delegation level
+- SCT50: Vote contract, managing poll contract
+- SCT51: Poll contract for voting
+
+##### 2. Changed SCT symbol length from fixed 3 to 3~10 characters
+
+- SCT symbol length can be 3 to 10 characters. (It was fixed 3 characters in previous version)
+- Added SctFork2 block number 16704500 in chain configuration
+
+##### 3. Added multi-sending transaction
+
+- Added new transaction type 3 for multi-sending transaction
+- This allows SYM transfer from one account to several accounts with one transaction
+- Gas is discounted compared to sending SYM in each transaction
+
+##### 4. Modified APIs
+
+- Added APIs related to SCT50 and SCT51(voting)
+- Modifed APIs related to Oracle block
+- Modified estimateGas API
+
+##### 5. Fixed some bugs
+
+- Fixed abnormal consensus failure
+- Fixed bug of transaction validation in transaction pool
+- Fixed bug of logging
+- Fixed bug of some APIs
+
+##### 6. Added new pre-defined network
+
+- Ienvu-net: Network ID 100
+- Stealth-net: Network ID 200
+
+
+
 ## gsym v1.0.23
 
 ##### 1. Changed gas parameter and price
