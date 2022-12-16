@@ -1,6 +1,21 @@
 # Gsym Release Note
 
+## gym v1.3.3
 
+##### 1. Adding built-in configuration for the merge fork on the Symverse mainnet
+* Apply for Ethereum Smart Contract Compatibility
+* Added Constantinople block number 70824500 in chain configuration 
+
+##### 2. Modified APIs
+* Added TotalCoinSupply API
+* Modified dumpBlock API
+
+##### 3. Fixed some bugs
+* Fixed bug of reward processing
+* Fixed bug of block repairing
+
+##### 4. Added new pre-defined network
+* Torocus-net: Network ID 101
 
 ## gsym v1.0.36
 
