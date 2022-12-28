@@ -1,5 +1,11 @@
 # Gsym Release Note
 
+## gym v1.3.4
+
+##### 1. Fixed some bugs
+* Fixed bug of reward processing
+* Fixed bug of logging
+
 ## gym v1.3.3
 
 ##### 1. Adding built-in configuration for the merge fork on the Symverse mainnet
