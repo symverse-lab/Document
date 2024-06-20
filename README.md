@@ -1,7 +1,7 @@
 ## SymVerse BlockChain
 
-SymVerse exists and serves at the pleasure of users and DApps. 
-Transactions are intuitively simple and easily performed. Execution is lightening fast and completely reliable. 
+SymVerse seeks for the pleasure of users and DApps. 
+Transactions are intuitively simple and easily performed. All Executions are lightening fast and completely reliable. 
 The production of new blocks is a cooperative process in which everyone participates and is therefore justly rewarded. 
 SymVerse aspires to create a better world.
 
