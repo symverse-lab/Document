@@ -13,7 +13,14 @@ Blockchains can lead the way to a better world. To achieve this, however, techno
 SymVerse adopts deeper socio-economic ideas and introduces revolutionary technical innovations.
 
 ## Document
-* wiki
 https://github.com/symverse-lab/Document/wiki
-
-.
+* Infrastructure Design Document
+* EFDN & PoN (Network & Mechanism) ( kor )
+* Proof of Stake (Symverse 2.0 Mining Scheme) ( kor )
+* SymID (DID) ( kor )
+* SymID 2.0 (User ID) ( kor )
+* SymSensus & BMT (Consensus & Organization of nodes) ( kor )
+* Multichain ( kor )
+* Transaction
+* SCT (SymVerse Contract Template) ( kor )
+* SymReward (Refund of gas & New Coin Distribution) ( kor )
