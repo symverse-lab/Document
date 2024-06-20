@@ -67,7 +67,7 @@ https://github.com/symverse-lab/Document/wiki
 
 ### Gsym (Blockchain-Node)
    Gsym was developed based on the [go-ethereum](https://github.com/ethereum/go-ethereum) source code. 
-   However, multichains operated by 10 byte citizen ID (Decentralized Identifier) and one second block finalization makes most of source code is wholly different from Ethereum's. For the developers' convenieniences, APIs are almost similar to those of Ethereum.
+   However, multi-chains operated by 10 byte citizen ID (Decentralized Identifier) and one second block finalization makes most of source code make Symverse code wholly different from Ethereum's. For the developers' convenieniences, APIs are almost similar to those of Ethereum.
    
    You can download gsym [here](https://github.com/symverse-lab/Document/tree/master/bin). 
 
