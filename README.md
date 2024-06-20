@@ -14,7 +14,7 @@ SymVerse adopts deeper socio-economic ideas and introduces revolutionary technic
 
 ## Document Wiki
 https://github.com/symverse-lab/Document/wiki
-## Infrastructure Design Document
+### Infrastructure Design Document
 - [EFDN & PoN (Network & Mechanism)](https://github.com/symverse-lab/Document/wiki/EFDN)
    (
       [kor](https://github.com/symverse-lab/Document/wiki/EFDN-KOR)
@@ -50,7 +50,7 @@ https://github.com/symverse-lab/Document/wiki
    )
 
 
-## Resources for dApp Developer
+### Resources for dApp Developer
 - [symverse-php](https://github.com/symverse-lab/symverse-php)
 - [symjs](https://github.com/symverse-lab/symjs)
 - [SCT20(Token) Sample Project](https://github.com/symverse-lab/sct20SampleProject)
@@ -65,7 +65,7 @@ https://github.com/symverse-lab/Document/wiki
 - [sym-netstats](https://github.com/symverse-lab/sym-netstats)
 
 
-## Gsym (Blockchain-Node)
+### Gsym (Blockchain-Node)
    Gsym was developed based on the [go-ethereum](https://github.com/ethereum/go-ethereum) source code. 
    The internal implementation is very different from the Ethereum, but API is almost similar to the Ethereum.
    
