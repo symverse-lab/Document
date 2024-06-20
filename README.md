@@ -13,6 +13,7 @@ Blockchains can lead the way to a better world. To achieve this, however, techno
 SymVerse adopts deeper socio-economic ideas and introduces revolutionary technical innovations.
 
 ## Document
+* wiki
 https://github.com/symverse-lab/Document/wiki
 
 .
