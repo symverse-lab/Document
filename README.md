@@ -55,7 +55,7 @@ https://github.com/symverse-lab/Document/wiki
 - [symjs](https://github.com/symverse-lab/symjs)
 - [SCT20(Token) Sample Project](https://github.com/symverse-lab/sct20SampleProject)
 - [SCT21(Token with lock) Sample Project](https://github.com/symverse-lab/sct21SampleProject)
-- [Vote C Library and Example (SCT50/51)](https://github.com/symverse-lab/symvote)
+- [SCT50/51 Vote C Library and Example](https://github.com/symverse-lab/symvote)
 - [SymWallet Android SDK Guide](https://github.com/symverse-lab/Document/wiki/SymWallet_Android_SDK)
    (
       [kor](https://github.com/symverse-lab/Document/wiki/SymWallet_Android_SDK-KOR)
