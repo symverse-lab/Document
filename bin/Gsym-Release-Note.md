@@ -1,10 +1,30 @@
 # Gsym Release Note
 
+
+
+## gsym v1.3.24
+
+##### 1. Added SCT31
+- Implemented a new smart contract extending the functionality of SCT30, designed for managing domain name services.
+
+##### 2. Integrated Name Service
+- Applied SCT31 to enable domain registration, resolution, and management without using external Solidity smart contracts.
+
+##### 3. Hierarchy-Based Domains 
+- Introduced a hierarchical structure consisting of groups and user IDs within a single namespace.
+
+##### 4. Domain-to-ID Mapping
+- Enabled seamless resolution of domain names to blockchain account IDs using sct.getResolveDomain.
+
+
+
 ## gym v1.3.4
 
 ##### 1. Fixed some bugs
 * Fixed bug of reward processing
 * Fixed bug of logging
+
+
 
 ## gym v1.3.3
 
@@ -112,19 +132,3 @@ sct gas table: https://github.com/symverse-lab/Document/wiki/SCT#sct-function-an
 ##### 7. Change api: getDeposit
 
 ##### 8. Change default sync mode from "fast" to "full"
-
-
-
-## gsym v1.0.24
-
-##### 1. Added SCT31
-- Implemented a new smart contract extending the functionality of SCT30, designed for managing domain name services.
-
-##### 2. Integrated Name Service
-- Applied SCT31 to enable domain registration, resolution, and management without using external Solidity smart contracts.
-
-##### 3. Hierarchy-Based Domains 
-- Introduced a hierarchical structure consisting of groups and user IDs within a single namespace.
-
-##### 4. Domain-to-ID Mapping
-- Enabled seamless resolution of domain names to blockchain account IDs using sct.getResolveDomain.
