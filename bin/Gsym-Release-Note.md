@@ -1,6 +1,9 @@
 # Gsym Release Note
 
+## gsym v1.4.1
 
+##### 1. Lastest version
+- Implemented Oracle revolution
 
 ## gsym v1.3.24
 
@@ -132,3 +135,4 @@ sct gas table: https://github.com/symverse-lab/Document/wiki/SCT#sct-function-an
 ##### 7. Change api: getDeposit
 
 ##### 8. Change default sync mode from "fast" to "full"
+
